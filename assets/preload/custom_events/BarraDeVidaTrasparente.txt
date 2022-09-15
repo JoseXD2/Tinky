@@ -1,0 +1,2 @@
+Value 1: Duracion (0 = Instantaneo)
+Value 2: 0 completamente transparente, 1 visible

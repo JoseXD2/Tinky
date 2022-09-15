@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Benito.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Benito_Dodge0000" x="0" y="0" width="1258" height="1961" frameX="0" frameY="-9" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0001" x="0" y="0" width="1258" height="1961" frameX="0" frameY="-9" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0002" x="1258" y="0" width="1231" height="1960" frameX="-24" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0003" x="1258" y="0" width="1231" height="1960" frameX="-24" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0004" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0005" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0006" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0007" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0008" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0009" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0010" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0011" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0012" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Dodge0013" x="2489" y="0" width="1221" height="1987" frameX="-29" frameY="0" frameWidth="1258" frameHeight="1987"/>
+	<SubTexture name="Benito_Idle0000" x="3710" y="0" width="1003" height="1938" frameX="0" frameY="-24" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0001" x="3710" y="0" width="1003" height="1938" frameX="0" frameY="-24" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0002" x="4713" y="0" width="973" height="1953" frameX="-8" frameY="-9" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0003" x="4713" y="0" width="973" height="1953" frameX="-8" frameY="-9" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0004" x="5686" y="0" width="917" height="1947" frameX="-16" frameY="-15" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0005" x="6603" y="0" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0006" x="6603" y="0" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0007" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0008" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0009" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0010" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0011" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0012" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+	<SubTexture name="Benito_Idle0013" x="0" y="1987" width="913" height="1963" frameX="-16" frameY="0" frameWidth="1003" frameHeight="1963"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+Lyrics Event by Josno WOW (me)
+
+Value 1: Type your text
+Value 2: Duration (in seconds)

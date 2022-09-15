@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tvs.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tv0000" x="0" y="0" width="2580" height="1440"/>
+	<SubTexture name="tvnothing0000" x="0" y="1440" width="2580" height="1440"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+Directors
+Angel::angel::Main artist & Owner of the mod::https://www.youtube.com/channel/UCwrZr2-0PAJp7X_2bAJKIbw::2F8F6A::0.2::0.2
+Sella::sella::Compositor & Charter::https://www.youtube.com/c/seibichu%E3%83%84::D4D2FB::0.2::0.2
+Peppy::peppy::Main Programmer::https://www.youtube.com/channel/UCmGq-hQDmdYcF26FLBsfwaA::5093FE::0.2::0.2
+Momazos Mister::TragaPito::Animator::https://www.youtube.com/channel/UCU2SeLqeQzvgjAOPoXQ8PNQ::77CDFA::0.2::0.2
+Team
+Leunam::leunam::Voice actor of Chichachu & Art help::https://www.youtube.com/channel/UC2sq0kNtEhzmjHCcP1112qg::66CD93::0.2::0.2
+CEGP::cegp::Programmer::https://www.youtube.com/channel/UCwrZr2-0PAJp7X_2bAJKIbw::ff954f::0.2::0.2
+ManuelCrack::manu::Artist::https://www.youtube.com/c/seibichu%E3%83%84::5fff61::0.2::0.2
+Manux::manux::Artist::https://www.youtube.com/c/seibichu%E3%83%84::D4D2FB::0.2::0.2
+Mr. William::william::Charter::https://www.youtube.com/channel/UCmGq-hQDmdYcF26FLBsfwaA::688696::0.2::0.2
+Gonzo::gonzo::Animator::https://www.youtube.com/channel/UCU2SeLqeQzvgjAOPoXQ8PNQ::D4D2FB::0.2::0.2
+Lalolosas::lalo::Animator & Pro::https://www.youtube.com/channel/UCeM0D1D2aP9wXP-sGr6VjDw::F00000::0.2::0.2
+END_Void::void::Charter::https://www.youtube.com/channel/UC2sq0kNtEhzmjHCcP1112qg::ffe8e8::0.2::0.2
+Walter Flameante::walter::Compositor::https://www.youtube.com/channel/UCwrZr2-0PAJp7X_2bAJKIbw::2467a0::0.2::0.2
+Delete That::deletethat::Compositor::https://www.youtube.com/c/seibichu%E3%83%84::3b3b47::0.2::0.2
+Kai::kai::Artist::https://www.youtube.com/c/seibichu%E3%83%84::e900ff::0.2::0.2
+JustNicks::justnicks::Chromatic Maker::https://www.youtube.com/channel/UCmGq-hQDmdYcF26FLBsfwaA::5093FE::0.2::0.2

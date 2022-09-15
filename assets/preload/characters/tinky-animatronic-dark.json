@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tinkyanimatronic_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tinkyanimatronic_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-157
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tinkyanimatronic_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				56
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tinkyanimatronic_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tinkyanimatronic_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tinky-animatronic-dark",
+	"position": [
+		-490,
+		-310
+	],
+	"healthicon": "tinky-animatronic",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		48,
+		103
+	],
+	"camera_position": [
+		210,
+		470
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

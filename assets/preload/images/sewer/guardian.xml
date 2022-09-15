@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guardian.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="23" y="23" width="719" height="902" frameX="0" frameY="-19" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0001" x="23" y="23" width="719" height="902" frameX="0" frameY="-19" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0002" x="755" y="23" width="697" height="898" frameX="-8" frameY="-24" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0003" x="755" y="23" width="697" height="898" frameX="-8" frameY="-24" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0004" x="1465" y="23" width="686" height="915" frameX="-14" frameY="-8" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0005" x="1465" y="23" width="686" height="915" frameX="-14" frameY="-8" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0006" x="2164" y="23" width="678" height="918" frameX="-17" frameY="-5" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0007" x="2855" y="23" width="682" height="918" frameX="-16" frameY="-5" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0008" x="23" y="954" width="692" height="921" frameX="-10" frameY="-2" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0009" x="728" y="954" width="692" height="923" frameX="-10" frameY="0" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0010" x="728" y="954" width="692" height="923" frameX="-10" frameY="0" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0011" x="728" y="954" width="692" height="923" frameX="-10" frameY="0" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0012" x="728" y="954" width="692" height="923" frameX="-10" frameY="0" frameWidth="719" frameHeight="923"/>
+	<SubTexture name="idle0013" x="728" y="954" width="692" height="923" frameX="-10" frameY="0" frameWidth="719" frameHeight="923"/>
+</TextureAtlas>

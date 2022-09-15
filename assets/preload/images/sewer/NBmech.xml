@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NB-Mech.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScreamerNB10000" x="0" y="0" width="1382" height="1475" frameX="-4" frameY="0" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10001" x="1382" y="0" width="1382" height="1467" frameX="-12" frameY="-8" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10002" x="2764" y="0" width="1382" height="1463" frameX="0" frameY="-12" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10003" x="4146" y="0" width="1382" height="1472" frameX="-12" frameY="-4" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10004" x="0" y="0" width="1382" height="1475" frameX="-4" frameY="0" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10005" x="1382" y="0" width="1382" height="1467" frameX="-12" frameY="-8" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10006" x="2764" y="0" width="1382" height="1463" frameX="0" frameY="-12" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB10007" x="4146" y="0" width="1382" height="1472" frameX="-12" frameY="-4" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20000" x="5528" y="0" width="1382" height="1475" frameX="-4" frameY="0" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20001" x="0" y="1475" width="1382" height="1467" frameX="-12" frameY="-8" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20002" x="1382" y="1475" width="1382" height="1463" frameX="0" frameY="-12" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20003" x="2764" y="1475" width="1382" height="1472" frameX="-12" frameY="-4" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20004" x="5528" y="0" width="1382" height="1475" frameX="-4" frameY="0" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20005" x="0" y="1475" width="1382" height="1467" frameX="-12" frameY="-8" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20006" x="1382" y="1475" width="1382" height="1463" frameX="0" frameY="-12" frameWidth="1394" frameHeight="1476"/>
+	<SubTexture name="ScreamerNB20007" x="2764" y="1475" width="1382" height="1472" frameX="-12" frameY="-4" frameWidth="1394" frameHeight="1476"/>
+</TextureAtlas>

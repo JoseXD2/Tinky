@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				28
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-17
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "Dodge",
+			"fps": 24,
+			"name": "BF DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				65
+			],
+			"anim": "Flash",
+			"fps": 24,
+			"name": "BF CAMERA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE SCARED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF LEFT SCARED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP SCARED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN SCARED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF RIGHT SCARED",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Complex_Furry_Assets-1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bftele",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		140,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

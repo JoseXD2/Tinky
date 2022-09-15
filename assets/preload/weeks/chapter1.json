@@ -1,0 +1,44 @@
+{
+	"storyName": "Daddy Dearest",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"caretaker",
+			"guardian",
+			[
+				140,
+				134,
+				134
+			]
+		],
+		[
+			"desolation",
+			"newborn1",
+			[
+				118,
+				84,
+				50
+			]
+		],
+		[
+			"goodbye-new-world",
+			"newborn1",
+			[
+				118,
+				84,
+				50 
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

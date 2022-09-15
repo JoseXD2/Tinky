@@ -1,0 +1,2 @@
+value 1: flash duration
+value 2: flash color

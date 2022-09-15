@@ -1,0 +1,9 @@
+Value 1:
+'true' for enable it or 'false' for disable it
+
+Value 2:
+character for NOT make it black (dad, gf, bf, everyone)
+COMBOS:(dad and bf, dad and gf// bf and dad, bf and gf)
+               (gf and dad, gf and bf)
+
+Script by WilliamGaming

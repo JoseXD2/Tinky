@@ -1,0 +1,2 @@
+Value 1 Name of the image (mods/images) (1500x961)
+Value 2 How much time it will be there
